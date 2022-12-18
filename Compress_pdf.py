@@ -2,7 +2,7 @@ import os
 import sys
 
 dir_path = "/absolute/path/to/directory/"
-# Make sure dir_path is ending in /
+# Make sure dir_path is Ending in /
 num_of_pages = 2
 out_file = dir_path+"14010XXXX_CV.pdf"
 
